@@ -27,7 +27,15 @@ Dividing demand by supply yields *boardings per departure*—how many people the
 
 You can run the analysis in several different modes depending on your needs. Below are the primary ways to execute the script.
 
-### 1. Demo Mode
+### 1. Automated CLI Run (Recommended)
+
+Automatically fetch the newest published GTFS ZIP file from the Swiss open data catalog and run the analysis for a specified date range:
+
+```bash
+python tpg_mismatch.py --download-latest --from 2026-03-01 --to 2026-05-31
+
+```
+### 2. Demo Mode
 Generate and run synthetic data to see the output format instantly, without needing to download the full network datasets or rely on an internet connection:
 
 ```bash
@@ -36,7 +44,7 @@ python tpg_mismatch.py --demo
 
 ```
 
-### 2. Interactive Mode
+### 3. Interactive Mode
 
 Launch a guided terminal menu to easily select your data source, date range, and report parameters without having to memorize command-line flags:
 
@@ -45,14 +53,6 @@ python tpg_mismatch.py --interactive
 
 ```
 
-### 3. Automated CLI Run (Recommended)
-
-Automatically fetch the newest published GTFS ZIP file from the Swiss open data catalog and run the analysis for a specified date range:
-
-```bash
-python tpg_mismatch.py --download-latest --from 2026-03-01 --to 2026-05-31
-
-```
 
 ### 4. Standard CLI Run
 
