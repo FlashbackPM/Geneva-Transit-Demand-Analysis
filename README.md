@@ -24,19 +24,24 @@ Dividing demand by supply yields *boardings per departure*—how many people the
 
 Demo Mode
 Generate and run synthetic data to see the output format without downloading the full network datasets:
+
+Bash
 python make_demo_data.py
 python tpg_mismatch.py --demo
-
 Interactive Mode
 Launch an interactive terminal menu to guide you through data source selection and report parameters:
-python tpg_mismatch.py --interactive
 
+Bash
+python tpg_mismatch.py --interactive
 Standard CLI Run
 Run the analysis against a manually downloaded GTFS static ZIP file and a specified date range:
-python tpg_mismatch.py --gtfs ./gtfs_fp2026.zip --from 2026-03-01 --to 2026-05-31
 
+Bash
+python tpg_mismatch.py --gtfs ./gtfs_fp2026.zip --from 2026-03-01 --to 2026-05-31
 Automated CLI Run
 Automatically fetch the newest published GTFS ZIP from the Swiss open data catalog before running the analysis:
+
+Bash
 python tpg_mismatch.py --download-latest --from 2026-03-01 --to 2026-05-31
 
 Limitations & Caveats
