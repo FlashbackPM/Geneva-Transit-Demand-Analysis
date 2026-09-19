@@ -22,9 +22,6 @@ Dividing demand by supply yields *boardings per departure*—how many people the
 
 ## Usage
 
-
-## Usage
-
 You can run the analysis in several different modes depending on your needs. Below are the primary ways to execute the script.
 
 ### 1. Automated CLI Run (Recommended)
