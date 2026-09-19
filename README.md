@@ -22,27 +22,43 @@ Dividing demand by supply yields *boardings per departure*—how many people the
 
 ## Usage
 
-Demo Mode
-Generate and run synthetic data to see the output format without downloading the full network datasets:
 
-Bash
+## Usage
+
+You can run the analysis in several different modes depending on your needs. Below are the primary ways to execute the script.
+
+### 1. Demo Mode
+Generate and run synthetic data to see the output format instantly, without needing to download the full network datasets or rely on an internet connection:
+
+```bash
 python make_demo_data.py
 python tpg_mismatch.py --demo
-Interactive Mode
-Launch an interactive terminal menu to guide you through data source selection and report parameters:
 
-Bash
+```
+
+### 2. Interactive Mode
+
+Launch a guided terminal menu to easily select your data source, date range, and report parameters without having to memorize command-line flags:
+
+```bash
 python tpg_mismatch.py --interactive
-Standard CLI Run
-Run the analysis against a manually downloaded GTFS static ZIP file and a specified date range:
 
-Bash
-python tpg_mismatch.py --gtfs ./gtfs_fp2026.zip --from 2026-03-01 --to 2026-05-31
-Automated CLI Run
-Automatically fetch the newest published GTFS ZIP from the Swiss open data catalog before running the analysis:
+```
 
-Bash
+### 3. Automated CLI Run (Recommended)
+
+Automatically fetch the newest published GTFS ZIP file from the Swiss open data catalog and run the analysis for a specified date range:
+
+```bash
 python tpg_mismatch.py --download-latest --from 2026-03-01 --to 2026-05-31
 
-Limitations & Caveats
-Boardings do not equal vehicle load. This script calculates how many people get on a vehicle at a specific stop, not how full the vehicle already was when it arrived. A stop near the end of a busy route might show low boarding pressure even if every bus pulls in packed. Always read the caveats at the bottom of the generated HTML report before drawing definitive conclusions about network crowding.
+```
+
+### 4. Standard CLI Run
+
+Run the analysis against a locally downloaded GTFS static ZIP file. This is useful if you want to analyze historical schedules or avoid re-downloading the feed:
+
+```bash
+python tpg_mismatch.py --gtfs ./gtfs_fp2026.zip --from 2026-03-01 --to 2026-05-31
+
+```
