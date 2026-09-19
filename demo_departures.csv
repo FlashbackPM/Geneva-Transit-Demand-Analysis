@@ -1,0 +1,214 @@
+didoc,arret,ligne,mode,departures_weekday
+8587057,Gare Cornavin,71,bus,214
+8587057,Gare Cornavin,5,bus,224
+8587057,Gare Cornavin,L,bus,78
+8587057,Gare Cornavin,12,tram,183
+8587057,Gare Cornavin,8,bus,127
+8587057,Gare Cornavin,46,bus,162
+8587057,Gare Cornavin,31,bus,132
+8587057,Gare Cornavin,9,bus,106
+8587057,Gare Cornavin,64,bus,164
+8587057,Gare Cornavin,3,trolleybus,147
+8587058,Bel-Air,10,trolleybus,225
+8587058,Bel-Air,3,trolleybus,170
+8587058,Bel-Air,47,bus,207
+8587058,Bel-Air,27,bus,174
+8587058,Bel-Air,K,bus,135
+8587058,Bel-Air,38,bus,223
+8587058,Bel-Air,A,bus,134
+8587058,Bel-Air,68,bus,93
+8587058,Bel-Air,17,tram,243
+8587058,Bel-Air,Z,bus,191
+8587059,Rive,72,bus,202
+8587059,Rive,Z,bus,107
+8587059,Rive,T,bus,241
+8587059,Rive,23,bus,149
+8587059,Rive,62,bus,114
+8587059,Rive,42,bus,128
+8587059,Rive,E,bus,157
+8587059,Rive,2,trolleybus,206
+8587059,Rive,66,bus,184
+8587059,Rive,18,tram,203
+8587060,Plainpalais,38,bus,143
+8587060,Plainpalais,19,trolleybus,183
+8587060,Plainpalais,31,bus,117
+8587060,Plainpalais,71,bus,107
+8587060,Plainpalais,11,bus,180
+8587061,Coutance,11,bus,115
+8587061,Coutance,12,tram,179
+8587061,Coutance,33,bus,95
+8587061,Coutance,Y,bus,138
+8587061,Coutance,W,bus,119
+8587061,Coutance,57,bus,138
+8587061,Coutance,5,bus,186
+8587061,Coutance,A,bus,110
+8587061,Coutance,7,trolleybus,134
+8587061,Coutance,14,tram,109
+8587062,Cirque,5,bus,91
+8587062,Cirque,Y,bus,134
+8587062,Cirque,17,tram,194
+8587062,Cirque,47,bus,125
+8587062,Cirque,W,bus,138
+8587062,Cirque,9,bus,120
+8587062,Cirque,38,bus,85
+8587062,Cirque,72,bus,112
+8587062,Cirque,C,bus,120
+8587062,Cirque,11,bus,143
+8587063,Stand,34,bus,147
+8587063,Stand,68,bus,115
+8587063,Stand,8,bus,113
+8587063,Stand,D,bus,118
+8587063,Stand,G,bus,131
+8587063,Stand,57,bus,68
+8587064,Augustins,10,trolleybus,145
+8587064,Augustins,71,bus,110
+8587064,Augustins,2,trolleybus,146
+8587064,Augustins,57,bus,71
+8587064,Augustins,C,bus,136
+8587065,Terrassière,7,trolleybus,174
+8587065,Terrassière,5,bus,117
+8587065,Terrassière,44,bus,85
+8587065,Terrassière,17,tram,115
+8587065,Terrassière,Y,bus,94
+8587066,Villereuse,12,tram,151
+8587066,Villereuse,G,bus,103
+8587066,Villereuse,25,bus,56
+8587066,Villereuse,T,bus,100
+8587066,Villereuse,C,bus,79
+8587066,Villereuse,14,tram,160
+8587066,Villereuse,8,bus,93
+8587067,Jonction,39,bus,143
+8587067,Jonction,15,tram,172
+8587067,Jonction,46,bus,125
+8587067,Jonction,35,bus,95
+8587068,Servette,34,bus,121
+8587068,Servette,F,bus,133
+8587068,Servette,23,bus,79
+8587068,Servette,14,tram,152
+8587068,Servette,31,bus,96
+8587069,Nations,61,bus,154
+8587069,Nations,5,bus,114
+8587069,Nations,7,trolleybus,106
+8587069,Nations,10,trolleybus,82
+8587069,Nations,42,bus,134
+8587070,Sécheron,22,bus,116
+8587070,Sécheron,10,trolleybus,191
+8587070,Sécheron,71,bus,122
+8587070,Sécheron,72,bus,129
+8587070,Sécheron,53,bus,135
+8587070,Sécheron,57,bus,98
+8587071,Champel,D,bus,85
+8587071,Champel,57,bus,96
+8587071,Champel,63,bus,135
+8587071,Champel,46,bus,61
+8587071,Champel,6,trolleybus,104
+8587071,Champel,68,bus,50
+8587072,Hôpital,6,trolleybus,162
+8587072,Hôpital,72,bus,131
+8587072,Hôpital,G,bus,93
+8587073,Bout-du-Monde,57,bus,76
+8587073,Bout-du-Monde,6,trolleybus,83
+8587073,Bout-du-Monde,63,bus,108
+8587074,Genève-Plage,68,bus,76
+8587074,Genève-Plage,L,bus,62
+8587074,Genève-Plage,27,bus,103
+8587074,Genève-Plage,64,bus,56
+8587074,Genève-Plage,Y,bus,108
+8587075,Gare des Eaux-Vives,6,trolleybus,104
+8587075,Gare des Eaux-Vives,Z,bus,135
+8587075,Gare des Eaux-Vives,62,bus,116
+8587075,Gare des Eaux-Vives,22,bus,61
+8587075,Gare des Eaux-Vives,44,bus,115
+8587075,Gare des Eaux-Vives,G,bus,85
+8587075,Gare des Eaux-Vives,D,bus,146
+8587076,Bachet-de-Pesay,31,bus,50
+8587076,Bachet-de-Pesay,L,bus,137
+8587076,Bachet-de-Pesay,21,bus,71
+8587076,Bachet-de-Pesay,T,bus,96
+8587076,Bachet-de-Pesay,34,bus,80
+8587076,Bachet-de-Pesay,F,bus,78
+8587076,Bachet-de-Pesay,D,bus,116
+8587076,Bachet-de-Pesay,28,bus,105
+8587076,Bachet-de-Pesay,A,bus,93
+8587077,Lancy-Pont-Rouge,71,bus,64
+8587077,Lancy-Pont-Rouge,K,bus,114
+8587077,Lancy-Pont-Rouge,2,trolleybus,77
+8587077,Lancy-Pont-Rouge,51,bus,87
+8587077,Lancy-Pont-Rouge,63,bus,92
+8587077,Lancy-Pont-Rouge,22,bus,106
+8587077,Lancy-Pont-Rouge,21,bus,48
+8587077,Lancy-Pont-Rouge,19,trolleybus,154
+8587077,Lancy-Pont-Rouge,1,bus,116
+8587078,Grand-Lancy,34,bus,96
+8587078,Grand-Lancy,62,bus,75
+8587079,Petit-Lancy,3,trolleybus,82
+8587080,Palettes,25,bus,40
+8587081,Pont-Butin,Y,bus,69
+8587082,Carouge-Rondeau,33,bus,64
+8587082,Carouge-Rondeau,9,bus,114
+8587082,Carouge-Rondeau,53,bus,112
+8587082,Carouge-Rondeau,42,bus,42
+8587082,Carouge-Rondeau,68,bus,108
+8587082,Carouge-Rondeau,64,bus,71
+8587082,Carouge-Rondeau,12,tram,237
+8587083,Tours-de-Carouge,F,bus,98
+8587083,Tours-de-Carouge,53,bus,53
+8587083,Tours-de-Carouge,8,bus,71
+8587083,Tours-de-Carouge,31,bus,83
+8587084,Moillesulaz,64,bus,110
+8587084,Moillesulaz,19,trolleybus,144
+8587084,Moillesulaz,L,bus,78
+8587085,Thônex-Vallard,7,trolleybus,60
+8587085,Thônex-Vallard,3,trolleybus,90
+8587085,Thônex-Vallard,11,bus,78
+8587085,Thônex-Vallard,53,bus,76
+8587085,Thônex-Vallard,22,bus,86
+8587086,Chêne-Bourg,7,trolleybus,91
+8587086,Chêne-Bourg,28,bus,78
+8587087,Balexert,15,tram,148
+8587087,Balexert,5,bus,123
+8587087,Balexert,23,bus,71
+8587088,Blandonnet,7,trolleybus,113
+8587088,Blandonnet,5,bus,93
+8587088,Blandonnet,17,tram,107
+8587088,Blandonnet,53,bus,57
+8587088,Blandonnet,39,bus,118
+8587088,Blandonnet,A,bus,78
+8587088,Blandonnet,C,bus,78
+8587088,Blandonnet,3,trolleybus,113
+8587088,Blandonnet,73,bus,105
+8587088,Blandonnet,27,bus,85
+8587089,Les Avanchets,39,bus,96
+8587089,Les Avanchets,38,bus,83
+8587089,Les Avanchets,15,tram,65
+8587089,Les Avanchets,18,tram,127
+8587089,Les Avanchets,35,bus,64
+8587090,Vernier-Village,31,bus,91
+8587090,Vernier-Village,10,trolleybus,58
+8587091,Aéroport,47,bus,116
+8587091,Aéroport,7,trolleybus,133
+8587091,Aéroport,E,bus,106
+8587091,Aéroport,42,bus,123
+8587091,Aéroport,57,bus,76
+8587091,Aéroport,17,tram,115
+8587091,Aéroport,14,tram,210
+8587091,Aéroport,F,bus,116
+8587091,Aéroport,K,bus,82
+8587091,Aéroport,35,bus,143
+8587091,Aéroport,W,bus,104
+8587092,Cointrin,10,trolleybus,129
+8587092,Cointrin,8,bus,113
+8587092,Cointrin,53,bus,70
+8587093,Meyrin-Village,T,bus,91
+8587093,Meyrin-Village,73,bus,70
+8587094,Onex-Cité,14,tram,120
+8587094,Onex-Cité,22,bus,110
+8587094,Onex-Cité,57,bus,39
+8587095,Bernex,71,bus,55
+8587096,Croix-de-Rozon,W,bus,86
+8587097,Veyrier-Douane,25,bus,54
+8587097,Veyrier-Douane,43,bus,64
+8587097,Veyrier-Douane,71,bus,55
+8587098,Vésenaz,28,bus,59
+8587099,Collonge-Bellerive,34,bus,66
+8587100,Hermance,64,bus,83
