@@ -43,7 +43,7 @@ python tpg_mismatch.py --demo
 
 ### 3. Interactive Mode
 
-Launch a guided terminal menu to easily select your data source, date range, and report parameters without having to memorize command-line flags:
+Launch a guided terminal menu to easily select your data source, date range, and report parameters without having to memorize command-line flags: 
 
 ```bash
 python tpg_mismatch.py --interactive
