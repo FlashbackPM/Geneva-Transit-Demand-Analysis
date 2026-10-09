@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-import argparse
+import argparse 
 from html.parser import HTMLParser
 import io
 import math
